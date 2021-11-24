@@ -1,7 +1,3 @@
-//Fort Hays State University - CSCI 121
-//Project 4 - "The Temperature of Earth at a Depth"
-//Author: Lindsey Jimenez
-//Date: 09-29-2021
 
 #include <iostream>
 #include <cmath>
