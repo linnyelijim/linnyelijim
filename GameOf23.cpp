@@ -1,7 +1,3 @@
-//Fort Hays State University - CSCI 121
-//Project 3 - "Simple Game of '23'"
-//Author: Lindsey Jimenez
-//Date: 09-20-2021
 
 #include <iostream>
 using namespace std;
