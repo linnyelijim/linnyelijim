@@ -1,7 +1,3 @@
-//Fort Hays State University - CSCI 121
-//Project 5 - "Top Down Concept"
-//Author: Lindsey Jimenez
-//Date: 10-13-2021
 
 #include <iostream>
 #include <string>
