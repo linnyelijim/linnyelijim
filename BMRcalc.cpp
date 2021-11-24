@@ -1,8 +1,4 @@
-//Fort Hays State University
-//CSCI121_VA_F2021. Programming C++
-//Project2.cpp : Creates a simple BMR calculator
-//Author: Lindsey Jimenez
-//Date: 09-08-2021
+
 #include <iostream>
 using namespace std;
 
