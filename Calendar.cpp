@@ -1,6 +1,3 @@
-// Question 1: YES
-// Question 2: YES
-// Quesiton 3: YES. Similar, but yours was more compact
 
 #include <iostream>
 #include <fstream>
